@@ -1,0 +1,5 @@
+redis:
+  host: 206.189.183.129
+  password: VF6tTkr7fMpnolDBxe
+  
+logging.level.com.hsd: DEBUG
